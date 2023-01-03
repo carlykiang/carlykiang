@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carly!</h1>
+<h1 align="center">Hi, I'm Carly! 😊</h1>
 <h4 align="center">I'm an aspiring software engineer. I'm currently working on learning how to use Flask, MySQL, and Python to create webapps! In my free time, I like to go museum hopping, experiment with new boba drinks, and watch anime. </h4>
 
 <h3 align="left">Connect with me:</h3>
